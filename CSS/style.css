@@ -1,0 +1,16 @@
+img{
+    object-fit: cover;
+    width: 80px;
+    height: 80px;
+}
+
+.mi-table{
+    border: 2px solid black;
+}
+
+.mi-label{
+    display: inline-block;
+    padding: 4px;
+    width: 40px;
+
+}
